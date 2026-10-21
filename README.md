@@ -149,12 +149,6 @@ Advanced Java & Projects
 ## 🤝 Contributions
 
 Found an improvement or have an idea for another Java example?
-
-1. Fork this repository.
-2. Create a branch for your changes.
-3. Add or improve a program.
-4. Submit a pull request.
-
 Suggestions and constructive feedback are welcome!
 
 ## 👨‍💻 Developer
